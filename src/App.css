@@ -28,6 +28,14 @@
   color: #61dafb;
 }
 
+/* Navbar Styles */
+.user-avatar{
+  margin-right: 10px;
+  border-radius: 50%;
+  outline: none;
+  
+}
+
 
 /* Login Styles */
 
